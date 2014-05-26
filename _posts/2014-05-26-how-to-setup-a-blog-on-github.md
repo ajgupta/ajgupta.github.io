@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to setup a blog on Github
+comments: true
 ---
 
 While there are many services available on the internet that might help you in hosting your own blog like [Wordpress.org](http://wordpress.org/), [Google's Blogger](https://www.blogger.com), [Tumblr](https://www.tumblr.com/), [Medium](https://medium.com/), etc. Each of these services have their own advantages and disadvantages.
