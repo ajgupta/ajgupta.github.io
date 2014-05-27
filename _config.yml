@@ -1,22 +1,4 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Ajay Gupta
-tagline:          Tales from a newbie developer
-url:              http://ajgupta.github.io/
-paginate:         1
-baseurl:          /
-author:
-  name:           Ajay Gupta
-  url:            http://in.linkedin.com/in/ajaygupta200/
-  email:          ironshoot@gmail.com
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/ajgupta
+auto: true
+markdown: rdiscount
+pygments: true
+permalink: /blog/:title
