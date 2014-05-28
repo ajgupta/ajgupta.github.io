@@ -17,7 +17,7 @@ image: post_one.jpg
 	  <h2>Github for blogging?</h2>
 	  <p>There are many services available on the internet that might help you in hosting your own blog like:</p>  	  
 	  <ul>
-		<li><a href="http://wordpress.org/" title="Go to Wordpress" target="_blank">Wordpress.org</a></li>
+		<li><a href="http://wordpress.org/" class="roll" title="Go to Wordpress" target="_blank">Wordpress.org</a></li>
 		<li><a href="https://www.blogger.com" title="Go to Blogger" target="_blank">Google's Blogger</a></li>
 		<li><a href="https://www.tumblr.com/" title="Go to Tumblr" target="_blank">Tumblr</a></li>
 		<li><a href="https://medium.com/" title="Go to Medium" target="_blank">Medium</a></li>
@@ -26,6 +26,7 @@ image: post_one.jpg
 	  <p><a href="http://news.ycombinator.com/item?id=3679495" target="_blank" title="Read what others are saying on news.ycombinator right now">Read what others are saying</a> on news.ycombinator.</p>
 	  <hr>	
 
+<a href="http://ajay-gupta.com/" class="roll"><span data-title="Ajay Gupta">Ajay Gupta</span></a>
 
 
 [](), [Google's Blogger](), [](), [Medium](), etc. Each of these services have their own advantages and disadvantages.
