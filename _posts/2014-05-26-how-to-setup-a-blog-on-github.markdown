@@ -32,5 +32,3 @@ image: post_one.jpg
 When I started out blogging I first used Google's Blogger for almost 2 years. It was free, fast and easy to setup. I bought a custom domain from [Namecheap](http://www.namecheap.com/?aff=62228) and [pointed it to blogger](https://support.google.com/blogger/troubleshooter/1233381?hl=en). All in all this setup was good but still there was a sense that Google owns all your data and it can disable your account any minute if it wants to. So I moved on to Wordpress.org. Wordpress was good, open source. The only problem with wordpress was that I had to pay for hosting (on Blogger it was free). Also with hosting came all the problems to manage your account, scan for viruses, worry about security of your site and stuff.
 So I started looking for other solutions for blogging. 
 
-
-Who's the best? <a href="#" class="roll"><span data-title="Johan van Tongeren">Johan van Tongeren</span></a>
