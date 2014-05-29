@@ -1,7 +1,7 @@
 <footer class="footer">
   <div class="container">
 	<p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; Previous Blog Post</a> 	{% endif %}  |  <a href="#">Back to top</a>  |  {% if page.next.url %} 	<a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Next Blog Post &raquo; </a> 	{% endif %} </p>        
-	<p>Page last generated on {{ site.time | date: "%B %e, %Y" }}</p>
+	<p>Page last updated on {{ site.time | date: "%B %e, %Y" }}</p>
 	<p>If need be, <a href="https://github.com/ajgupta/Feedback/issues/new" title="Leave feedback for Ajay"  target="_blank" >leave me some feedback</a>.</p>	
   </div>
 </footer>
