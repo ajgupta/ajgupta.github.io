@@ -8,6 +8,8 @@ month: 05
 day: 28
 published: true
 image: Database.jpg
+description: ALL_SOURCE describes text for stored objects accessible to current user whereas DBA_SOURCE describes text for stored objects in complete database.
+
 ---
 
 <div class="row">	
