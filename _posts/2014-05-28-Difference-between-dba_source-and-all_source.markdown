@@ -20,7 +20,8 @@ description: ALL_SOURCE describes text for stored objects accessible to current 
 		<p>Both dba_source and all_source have 5 columns: OWNER, NAME,TYPE, LINE and TEXT. Other then these two there is one more view called USER_SOURCE which describes the text source of the stored objects <b>owned by the current user</b>.</p>
 		<h2>Just tell me how to use it!</h2>
 		<p>Most common way to use these:</p>
-		<code>SELECT * FROM dba_source where TEXT like '%package.procedure/function_name%'</code>
+		<code>SELECT * FROM dba_source where TEXT like '%package.procedure/function_name%'</code><br>
+		<br>
 		<p>Source: Oracle Docs for <a href="http://docs.oracle.com/cd/B19306_01/server.102/b14237/statviews_4102.htm" target="_blank">DBA_SOURCE</a>, <a href="http://docs.oracle.com/cd/B19306_01/server.102/b14237/statviews_2063.htm" target="_blank">ALL_SOURCE</a>
 	</div>
 </div> 
