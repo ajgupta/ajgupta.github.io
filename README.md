@@ -6,7 +6,7 @@ Have any feedback for me? [File an issue on this
 project](https://github.com/ajgupta/Feedback/issues/new) and I will get back to
 you as soon as I can.
 
-h1. License
+## License
 
 The following directories and their contents are Copyright Ajay Gupta. You may not reuse anything therein without my permission:
 
