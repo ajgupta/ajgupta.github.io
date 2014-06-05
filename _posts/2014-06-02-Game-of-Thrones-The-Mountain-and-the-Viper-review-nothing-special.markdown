@@ -8,8 +8,9 @@ year: 2014
 month: 6
 day: 02
 published: false
-summary: A review of the episode 8  "The Mountain and the Viper" of season 4 of "Game of Thrones". Nothing special just people getting killed and the unexpected turn of events, nothing you won't get in any episode of Game of Thrones 
 image: Game-of-thrones.jpg
+summary: A review of the episode 8  "The Mountain and the Viper" of season 4 of "Game of Thrones". Nothing special just people getting killed and the unexpected turn of events, nothing you won't get in any episode of Game of Thrones 
+
 ---
 
 <div class="row">	
