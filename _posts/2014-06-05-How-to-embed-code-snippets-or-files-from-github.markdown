@@ -26,6 +26,4 @@ description: For embedding code in a post you can use Gist. Using Gist you can e
 	</div>
 </div> 
 	
-<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-post" data-href="https://www.facebook.com/dabblr/photos/a.564025523658796.1073741832.559680060760009/635032893224725/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/dabblr/photos/a.564025523658796.1073741832.559680060760009/635032893224725/?type=1">Post</a> by <a href="https://www.facebook.com/dabblr">Dabblr</a>.</div></div>
 
