@@ -7,7 +7,6 @@ year: 2014
 month: 05
 day: 28
 published: true
-image: Github.jpg
 description: For embedding code in a post you can use Gist. Using Gist you can embed any code into a post on your blog. Just go to gist.github.com and paste your code and click on create Gist.
 ---
 

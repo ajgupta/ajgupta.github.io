@@ -7,7 +7,6 @@ year: 2014
 month: 05
 day: 28
 published: true
-image: Database.jpg
 description: ALL_SOURCE describes code of the stored objects accessible to current user. DBA_SOURCE also describes text for stored objects but it is not limited to a particular user.
 
 ---
