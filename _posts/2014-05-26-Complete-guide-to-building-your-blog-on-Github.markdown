@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to setup a blog on Github
+title: Complete guide to building your blog on Github
 comments: true
 category: Coding
 tags: github blog setup
@@ -8,8 +8,8 @@ year: 2014
 month: 5
 day: 26
 published: false
-summary: A tutorial on how to build a blog on Github from scratch
-image: post_one.jpg
+summary: 
+image: Github.jpg
 ---
 
 <div class="row">	
