@@ -285,3 +285,8 @@ sub {
 	    font-weight: normal;
 	    font-style: normal; }
 */
+
+	disqus_thread {
+		width: 70%;
+		margin-left: auto;
+	}
