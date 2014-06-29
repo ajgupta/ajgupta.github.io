@@ -317,7 +317,7 @@
   .gray { color: #999; }
 
 		
-	disqus_thread {
+	.comments {
 		width: 70%;
 		margin-left: auto;
 	}
