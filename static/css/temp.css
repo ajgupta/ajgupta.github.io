@@ -54,7 +54,7 @@ a [class^="icon-"], a [class*=" icon-"] {
 }
 li [class^="icon-"], li [class*=" icon-"] {
   display: inline-block;
-  width: 1.25em;
+  width: 5em;
   text-align: center;
 }
 li .icon-large[class^="icon-"], li .icon-large[class*=" icon-"] {
