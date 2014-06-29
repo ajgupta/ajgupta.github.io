@@ -9,7 +9,7 @@ published: true
 description: By default Disqus covers 100% width of your site. This might cause an issue with rendering of the page depending on design of your site. Learn how I adjusted the width of Disqus comments on my blog. 
 
 ---
-
+<div class="row">
 	<div class="span9 columns">
 		<p>By default Disqus covers up 100% of the width of your blog. If your design is a bit different like mine then this might be a problem as while scrolling Disqus might overlap certain elements  on the page.</p>
 		<h2>How to change the width of Disqus comments block?</h2>
@@ -24,7 +24,7 @@ description: By default Disqus covers 100% width of your site. This might cause 
 		<p>To check how much width you need, check that by playing with <a href="https://developer.chrome.com/devtools/index" target="_blank">Google Devtools</a>. I have set mine at 70% width.</p>
 		<p>You can checkout <a href="https://help.disqus.com/customer/portal/articles/545277-disqus-appearance-tweaks"target="_blank">this</a> article for more tweaks and customizations with Disqus comments.</p>
 	</div>
- 
+ </div> 
 		
 		
 		
