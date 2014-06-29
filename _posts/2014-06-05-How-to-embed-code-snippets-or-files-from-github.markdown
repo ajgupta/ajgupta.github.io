@@ -19,7 +19,7 @@ description: For embedding code in a post you can use Gist. Using Gist you can e
     <li>Go to <a href="https://gist.github.com/" target="_blank">Gist</a>.</li>
     <li>Put your code into the box (copy and paste). You can optionally add Gist Description, the language you are using and the Gist name as well.</li>
     <li>Click on create Public Gist at the bottom.</li>
-    <li>On the next page you will get the code for embedding the Gist that you just created. Copy it and paste it whereever you want to use this Gist.</li>
+    <li>On the next page you will get the code for embedding the Gist that you just created. Copy it and paste it where ever you want to use this Gist.</li>
     </ol>
     <p>Example gist: <script src="https://gist.github.com/ajgupta/e92c46761fe0b0a730b0.js"></script> </p>
 	</div>
