@@ -1186,7 +1186,7 @@ sub {
     }
   }
 	
-	disqus_thread {
+	.comments {
 		width: 70%;
 		margin-left: auto;
 	}
