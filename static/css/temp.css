@@ -1186,6 +1186,10 @@ sub {
     }
   }
 	
+	disqus_thread {
+		width: 70%;
+		margin-left: auto;
+	}
 
 /* #Font-Face
 ================================================== */
