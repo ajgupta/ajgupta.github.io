@@ -2,7 +2,7 @@
 layout: post
 title: How to embed code snippets or files from github
 category: Oracle
-tags: Github
+tags: Oracle
 year: 2014
 month: 05
 day: 28

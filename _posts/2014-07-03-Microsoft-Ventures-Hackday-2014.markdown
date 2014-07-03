@@ -5,6 +5,7 @@ year: 2014
 month: 07
 day: 03
 published: true
+tags: Oracle
 description:  I have wanted to go to a Hackathon for a long time. I applied for a Hackathon (Hackday) 2 weeks ago which is being organized by Microsoft Ventures, got the approval for it today.
 
 ---

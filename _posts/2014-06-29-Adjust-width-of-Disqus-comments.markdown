@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adjust width of Disqus comments
-category: Oracle
+tags: Oracle
 year: 2014
 month: 06
 day: 29
