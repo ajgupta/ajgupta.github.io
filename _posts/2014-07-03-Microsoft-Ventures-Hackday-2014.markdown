@@ -22,20 +22,20 @@ description:  I have wanted to go to a Hackathon for a long time. I applied for 
 		
 		<p>We'll have minimal overhead and maximal hacking:</p>
 		
-		<p>Registration: 5-6pm</br>
-		APIs explained & house rules: 6-7pm</br>
-		Hack/Fuel/Hack/Fuel/Hack/Fuel: 7pm-2:30pm</br>
-		Finish up hacks by 2:30pm</br>
-		Pitches (3min each): 2:30-4:30pm</br>
-		Judging: 4:30-5:30pm</br>
-		Prizes: 5:30pm</br>
+		<p>Registration: 5-6pm<br>
+		APIs explained & house rules: 6-7pm<br>
+		Hack/Fuel/Hack/Fuel/Hack/Fuel: 7pm-2:30pm<br>
+		Finish up hacks by 2:30pm<br>
+		Pitches (3min each): 2:30-4:30pm<br>
+		Judging: 4:30-5:30pm<br>
+		Prizes: 5:30pm<br>
 		We have some cool prizes from Microsoft Ventures and also from our startups.</p>
 		
 		<p>Dinner, snacks, energy drinks, breakfast & lunch provided - BRAINS, BODIES, & LAPTOPS are things you should bring :)</p>
 		
 		<p>Important: We have a waiting list, so if any of you are not coming tomorrow, please let us know ASAP, so we can admit people on the waitlist.</p>
 		
-		<p>Prasanna</br>
+		<p>Prasanna<br>
 		Microsoft Ventures</p>
 		</blockquote>
 		<p>The location of Hackathon is <a href="http://binged.it/1lrHFc7" target="_blank">Ground Floor of Microsoft Vigyan</a>, Lavelle Road, Bangalore, Karnataka, India. Interestingly at the time of this post if you search for this location on Google maps then you won't get any result.. Nice work Google!</p>
