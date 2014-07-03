@@ -1,4 +1,4 @@
-## [ajgupta.github.io](http://www.ajay-gupta.com/) 
+## [Ajay Gupta](http://www.ajay-gupta.com/) 
 
 This is my GitHub user page made with Jekyll. 
 
@@ -13,4 +13,4 @@ The following directories and their contents are Copyright Ajay Gupta. You may n
 * _posts/
 * images/
 
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to https://github.com/ajgupta/ajgupta.github.io would be appreciated.
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://www.ajay-gupta.com/ would be appreciated.
