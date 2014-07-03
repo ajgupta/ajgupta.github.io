@@ -39,6 +39,6 @@ description:  I have wanted to go to a Hackathon for a long time. I applied for 
 		Microsoft Ventures</p>
 		</blockquote>
 		<p>The location of Hackathon is <a href="http://binged.it/1lrHFc7" target="_blank">Ground Floor of Microsoft Vigyan</a>, Lavelle Road, Bangalore, Karnataka, India. Interestingly at the time of this post if you search for this location on Google maps then you won't get any result.. Nice work Google!</p>
-		<p>Anyways I will carry myself and my Dell 2520 to this location and see how it goes. I am an Oracle Apps developer, so I can definitely help out someone with Database (I work on Oracle DB 10g, although nobody will be using Oracle!).</p>
+		<p>Anyways I will carry myself and my Dell 2520 to this location and see how it goes. I am an Oracle Apps developer, so I can definitely help out someone with Database (I work on Oracle DB 10g, although nobody will be using Oracle!). Other than that I am a fair presenter. In the mail as you can see the devs need to pitch their ideas/apps as well, so I might just be helpful there.</p>
 		</div>
  </div> 
