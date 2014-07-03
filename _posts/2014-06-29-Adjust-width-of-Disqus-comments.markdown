@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adjust width of Disqus comments
-tags: blogging disqus test
+tags: blogging disqus
 year: 2014
 month: 06
 day: 29
