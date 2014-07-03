@@ -2,7 +2,7 @@
 layout: post
 title: Difference between dba_source and all_source
 category: Oracle
-tags: pl/sql 
+tags: Oracle 
 year: 2014
 month: 05
 day: 28
@@ -22,6 +22,14 @@ description: ALL_SOURCE describes code of the stored objects accessible to curre
 		<script src="https://gist.github.com/ajgupta/90a59925ba66d7a45ba9.js"></script><br>
 		<br>
 		<p>Source: Oracle Docs for <a href="http://docs.oracle.com/cd/B19306_01/server.102/b14237/statviews_4102.htm" target="_blank">DBA_SOURCE</a>, <a href="http://docs.oracle.com/cd/B19306_01/server.102/b14237/statviews_2063.htm" target="_blank">ALL_SOURCE</a>
+		<ul>
+		<p>Related posts:</p>
+  {% for post in site.tags.Oracle %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 	</div>
 </div> 
 		
