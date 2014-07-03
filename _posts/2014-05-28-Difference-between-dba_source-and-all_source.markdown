@@ -24,7 +24,12 @@ description: ALL_SOURCE describes code of the stored objects accessible to curre
 		<p>Source: Oracle Docs for <a href="http://docs.oracle.com/cd/B19306_01/server.102/b14237/statviews_4102.htm" target="_blank">DBA_SOURCE</a>, <a href="http://docs.oracle.com/cd/B19306_01/server.102/b14237/statviews_2063.htm" target="_blank">ALL_SOURCE</a>
 		<ul>
 		<p>Related posts:</p>
-  {% for post in site.tags.test || site.tags.kick %}
+  {% for post in site.tags.test %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  {% for post in site.tags.kick %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
