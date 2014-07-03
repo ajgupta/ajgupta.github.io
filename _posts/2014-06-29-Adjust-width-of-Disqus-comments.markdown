@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adjust width of Disqus comments
-tags: Oracle
+tags: blogging disqus test
 year: 2014
 month: 06
 day: 29
