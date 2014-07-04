@@ -20,16 +20,23 @@ description:
 		![](/static/images/Paranoid-Android-4.4.4-Home-screen-screenshot.png)
 		<p>If we go into the Apps showcase you might again notice the icons are a bit bigger.</p>
 		![](/static/images/Paranoid-Android-4.4.4-All-apps-screenshot.png)
-		In the About phone you can see the Android version 4.4.4 and the Paranoid Android version 4.4.
+		<p>In the About phone you can see the Android version 4.4.4 and the Paranoid Android version 4.4.</p>
 		![](/static/images/Paranoid-Android-4.4.4-about-phone-screenshot.png)
+		<p>In Paranoid Android if you will go to Settings> Apps> and then click on any app then you will see three options Disable/Uninstall, Force stop and <b>Blacklist</b>. Never tried Blacklisting an app. A word of advice here there are <b>no bloatwares</b> in this ROM, so <b>do not</b> uninstall any system apps like Documents, etc. Learnt this the hard way, uninstalled Documents app using Titanium Backup and now I see its implications. In PA Documents is closely linked to the Download Manager.</p>
 		![](/static/images/Paranoid-Android-4.4.4-app-info-screenshot.png)
+		<p>As you can see in the image below there is not much change in the Task Manager.</p>
 		![](/static/images/Paranoid-Android-4.4.4-apps-in-background-screenshot.png)
+		<p>Awesome thing about this ROM or should I say this Android version is that I can configure App permissions for each app individually. To configure it go to Settings> App Privacy> Select the app and choose the permissions.</p>
 		![](/static/images/Paranoid-Android-4.4.4-apps-permissions-screenshot.png)
+		<p>Nothing has changed in the apps list except that there is a new tab for disabled apps.</p>
 		![](/static/images/Paranoid-Android-4.4.4-apps-screenshot.png)
-		![](/static/images/Paranoid-Android-4.4.4-Battery stats-screenshot.png)
-		![](/static/images/Paranoid-Android-4.4.4-choose-launcher-screenshot.png)
-		![](/static/images/Paranoid-Android-4.4.4-dialer-screenshot.png)
 		![](/static/images/Paranoid-Android-4.4.4-disabled-apps-screenshot.png)
+		<p>Battery stats are much accurate and I can happily say that battery usage has decreased as well. My battery lasts longer now. Thanks PA devs.</p>
+		![](/static/images/Paranoid-Android-4.4.4-Battery stats-screenshot.png)
+		<p>I have always wanted to use Google Launcher but in Cyanogenmod it wasn't compatible (could be because it was Cyanogenmod 10). But in Paranoid Android Google Launcher came preinstalled with the ROM and works just fine. I removed the persistent search bar from top of each homescreen using Xposed Framework as I don't use Google Now or voice search, etc.</p>
+		![](/static/images/Paranoid-Android-4.4.4-choose-launcher-screenshot.png)
+		
+		![](/static/images/Paranoid-Android-4.4.4-dialer-screenshot.png)
 		![](/static/images/Paranoid-Android-4.4.4-display-settings-screenshot.png)
 		![](/static/images/Paranoid-Android-4.4.4-floating-notifications-screenshot.png)
 		![](/static/images/Paranoid-Android-4.4.4-Google-camera-screenshot.png)
