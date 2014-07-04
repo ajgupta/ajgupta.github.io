@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Place searches</title>
+  </head>
+  <body>
+<input type="text" name="txtJob" value="software">
+  </body>
+</html>
