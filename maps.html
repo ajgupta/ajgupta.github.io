@@ -15,9 +15,14 @@
     <script>
 var map;
 var infowindow;
+function successFunction(position) {
+    var lat = position.coords.latitude;
+    var long = position.coords.longitude;
+    console.log('Your latitude is :'+lat+' and longitude is '+long);
+}
 
 function initialize() {
-  var pyrmont = new google.maps.LatLng(-33.8665433, 151.1956316);
+  var pyrmont = new google.maps.LatLng(lat, long);
 
   map = new google.maps.Map(document.getElementById('map-canvas'), {
     center: pyrmont,
@@ -25,9 +30,9 @@ function initialize() {
   });
 
   var request = {
-    location: bangalore,
+    location: pyrmont,
     radius: 500,
-    types: ['medical store']
+    types: ['store']
   };
   infowindow = new google.maps.InfoWindow();
   var service = new google.maps.places.PlacesService(map);
