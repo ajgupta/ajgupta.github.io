@@ -23,4 +23,20 @@ description:  Its day (or night!) one at Microsoft Ventures Hackday. Everybody i
 <p>By the way that's me in the center of the below image trying to find a charging point for my laptop (Tall guy in black jeans, looking down). It feels nice to be on their Facebook page!</p>
 <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-post" data-href="https://www.facebook.com/microsoftventuresinindia/photos/a.132683393562640.29621.132222276942085/325697360927908/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/microsoftventuresinindia/photos/a.132683393562640.29621.132222276942085/325697360927908/?type=1">Post</a> by <a href="https://www.facebook.com/microsoftventuresinindia">Microsoft Ventures in India</a>.</div></div>
+<p>And here's a copy of the final mail that came today from Microsoft Ventures:</p>
+<blockquote><p>Hey All - Hope you had a blast with us! Thank you all for attending the hackday!</p>
+
+<p>It was incredible to see your energy and passion; mashing up some pretty cool new ideas and prototypes, powering through the night, and working at it for 24hrs straight!</p>
+
+<p>Our startups - ThinkNest, Profoundis, SupportBee, Frrole, Bookpad and Metaome - were very happy to see such creative and deep usage of their APIs. They'll be contacting a few of you directly to take you out to the promised lunch or dinner :)</p>
+
+<p>Please do tweet/facebook/blog about your projects & experience with us #MVHackDay</p>
+
+<p>If there were any slips or mess-ups do let us know and we'll do a better job next time.</p>
+
+<p>Have fun and keep hacking!</p>
+
+<p>Prasanna.</p>
+<p>Microsoft Ventures Bangalore</p>
+</blockquote>
  </div> 
