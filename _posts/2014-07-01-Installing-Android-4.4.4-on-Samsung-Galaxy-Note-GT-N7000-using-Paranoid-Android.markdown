@@ -35,23 +35,39 @@ description:
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-Battery stats-screenshot.png)
 		<p>I have always wanted to use Google Launcher but in Cyanogenmod it wasn't compatible (could be because it was Cyanogenmod 10). But in Paranoid Android Google Launcher came preinstalled with the ROM and works just fine. I removed the persistent search bar from top of each homescreen using Xposed Framework as I don't use Google Now or voice search, etc.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-choose-launcher-screenshot.png)
-		
+		<p>The dialer looks like this:</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-dialer-screenshot.png)
+		<p>Display settings has a few more options like Daydream and Adaptive Backlight</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-display-settings-screenshot.png)
+		<p>Previously in Cyanogenmod if I wanted floating notifications then I would have to use some 3rd party application like floatification, etc. But in Paranoid Android I have floating notifications built in. And its much more than just floating notification, its like running an application in a Window, you can use all the functions of that application from that floating window. </p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-floating-notifications-screenshot.png)
+		<p>A Camera application came preinstalled with Paranoid Android. But I always wanted to use <a href="https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera&hl=en" target="_blank">Google Camera application</a> because of its features like: Photo Sphere, Lens Blur, Panorama. In Cyanogenmod Google Camera was not supported for Galaxy Note N7000 but in PA I was able to install  Google Camera directly from Play Store.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-Google-camera-screenshot.png)
+		<p>In camera settings you can see all the features Photo Sphere, Lens Blur, Panorama.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-google-camera-settings-screenshot.png)
+		<p>In Settings there is an option for Buttons and Themes. </p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-more-settings-screenshot.png)
+		<p>In notification you will find Light bulb and Imeersive tiles. Light bulb is just a simple torch application. Immersive means every application will cover up the whole screen and notification bar won't be visible when Immersive is turned on.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-Notification-bar-pulldown-screenshot.png)
+		<p>In notifications if you will see on the top right, you will see 3 icons. The middle one is a new addition. If you select it then any notification </p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-notifications-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-power button-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-processor-settings-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-reboot-options-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-running-apps-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-Settings-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-Settings-themes-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-system-settings-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-update-check-screenshot.png)
+		<p></p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-volume-up-screenshot.png)
 		<h2>How to change the width of Disqus comments block?</h2>
 		<p>If you will see the Disqus code:</p>
