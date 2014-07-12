@@ -26,8 +26,6 @@ description:
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-app-info-screenshot.png)
 		<p>As you can see in the image below there is not much change in the Task Manager.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-apps-in-background-screenshot.png)
-		<p>Awesome thing about this ROM or should I say this Android version is that I can configure App permissions for each app individually. To configure it go to Settings> App Privacy> Select the app and choose the permissions.</p>
-		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-apps-permissions-screenshot.png)
 		<p>Nothing has changed in the apps list except that there is a new tab for disabled apps.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-apps-screenshot.png)
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-disabled-apps-screenshot.png)
@@ -49,37 +47,29 @@ description:
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-more-settings-screenshot.png)
 		<p>In notification you will find Light bulb and Imeersive tiles. Light bulb is just a simple torch application. Immersive means every application will cover up the whole screen and notification bar won't be visible when Immersive is turned on.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-Notification-bar-pulldown-screenshot.png)
-		<p>In notifications if you will see on the top right, you will see 3 icons. The middle one is a new addition. If you select it then any notification </p>
+		<p>In notifications if you will see on the top right, you will see 3 icons. The middle one is a new addition. If you select it then any notification comes then at first it will appear a little bigger then the notification bar.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-notifications-screenshot.png)
-		<p></p>
+		<p>On pressing the power button the menu looks like this, note that there is a shortcut for taking screenshot. Another way of taking screenshot is press and hold the power button and volume down.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-power button-screenshot.png)
-		<p></p>
-		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-processor-settings-screenshot.png)
-		<p></p>
+		<p>From the above power menu if you select reboot then you will get these options Reboot, recovery and download mode.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-reboot-options-screenshot.png)
-		<p></p>
+		<p>If you are interested you can also play a little with processor frequency. Decresing the maximum and minimum operating frequency will increase the battery life of your Galaxy Note whereas increasing the maximum and minimum operating frequency will increase the performance of the phone. I haven't ever wanted to increase the operating frequency of Note N7000 as its almost always the RAM that gets clogged up first. In this ROM the amount of free RAM on an average when not running any apps is 250MB.</p>
+		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-processor-settings-screenshot.png)
+		<p>The following is the screenshot of apps running in the background, even though Whatsapp, Dropbox, Poweramp, Clipper are running in the background then also you have around 190MB of RAM free.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-running-apps-screenshot.png)
-		<p></p>
+		<p>Settings look like this, not much change except some added menus like Buttons, Themes, etc.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-Settings-screenshot.png)
-		<p></p>
+		<p>If you will go into the themes menu then you will get the following options, quite a lot of customization options.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-Settings-themes-screenshot.png)
-		<p></p>
+		<p>System settings include 3 more menus other than the usual: Printing, App Privacy and Performance.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-system-settings-screenshot.png)
-		<p></p>
+		<p>Awesome thing about this ROM or should I say this Android version is that I can configure App permissions for each app individually. To configure it go to Settings> App Privacy> Select the app and choose the permissions.</p>
+		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-apps-permissions-screenshot.png)
+		<p>There is  even an inbuilt update manager which will automatically check and notify you when an update is available for Paranoid Android for your device.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-update-check-screenshot.png)
-		<p></p>
+		<p>Volume up and Volume down notification now appear on top rather than in the center. Less distractions.</p>
 		![](/static/images/Paranoid-Android-n7000/Paranoid-Android-4.4.4-volume-up-screenshot.png)
-		<h2>How to change the width of Disqus comments block?</h2>
-		<p>If you will see the Disqus code:</p>
-			<script src="https://gist.github.com/anonymous/6fe58e246a077327bf08.js"></script>
-		<p>Now this code does not have any width element, so we need to follow the CSS method.</p>
-		<h2>The CSS way:</h2>
-		<p>Just create a <b>div element</b> with a class as follows:</p>
-			<script src="https://gist.github.com/anonymous/77f9a65725a3f354f30b.js"></script>
-		<p>After this you need to add properties to this element in your CSS file:</p>
-			<script src="https://gist.github.com/anonymous/0122f13394b23a9ecd6e.js"></script>
-		<p>To check how much width you need, check that by playing with <a href="https://developer.chrome.com/devtools/index" target="_blank">Google Devtools</a>. I have set mine at 70% width.</p>
-		<p>You can checkout <a href="https://help.disqus.com/customer/portal/articles/545277-disqus-appearance-tweaks"target="_blank">this</a> article for more tweaks and customizations with Disqus comments.</p>
+		
 	</div>
  </div> 
 		
