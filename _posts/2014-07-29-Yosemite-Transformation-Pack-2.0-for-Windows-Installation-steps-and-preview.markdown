@@ -19,8 +19,8 @@ description: So today I came across Yosemite Transformation Pack 2.0. Seemed qui
 		<ul><a href="http://windowsx.deviantart.com/art/Yosemite-Transformation-Pack-1-0-458775556" target="_blank">DevianArt</a></ul>
 		</li>
 		</p>
-		<p><b>Important thing before installing Yosemite Transformation Pack:</b> Make a System restore point before installing Yosemite Transformation Pack on your system. For creating a restore point just type "Create a restore point" in your Start search.
-		![](/static/images/Yosemite-Transformation-Pack/Create-system-restore.PNG)</p>
+		<p><b>Important thing before installing Yosemite Transformation Pack:</b> Make a System restore point before installing Yosemite Transformation Pack on your system. For creating a restore point just type "Create a restore point" in your Start search.</p>
+		![](/static/images/Create-system-restore.jpg)
 		<p>Creating a restore point is important before installing any transformation packs, as these packs patch your system files and anything can go wrong. So better have a system restore point to recover from. Also in case you uninstall this transformation pack and you are not getting your Windows 7 default theme back then also you can use the restore point. Now when you double click on the installer then you might get a message like this:</p>
 		![](/static/images/Yosemite-Transformation-Pack/system-restart-pending.PNG)
 		<p>Just restart your computer and run the setup again and you will see a screen similar to this:</p>
