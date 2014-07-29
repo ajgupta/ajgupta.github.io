@@ -4,7 +4,7 @@ title: Yosemite Transformation Pack 2.0 for Windows - Installation steps and pre
 year: 2014
 month: 07
 day: 29
-published: true
+published: false
 tags: windows
 description: So today I came across Yosemite Transformation Pack 2.0. Seemed quite elegant. So I installed it on my Windows 7 PC. Here are the installation steps and a few screenshots.
 
