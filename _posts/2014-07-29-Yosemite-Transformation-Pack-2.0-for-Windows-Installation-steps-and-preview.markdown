@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing out Yosemite Transformation Pack 2.0 for Windows: Installation steps and preview
+title: Yosemite Transformation Pack 2.0 for Windows - Installation steps and preview
 year: 2014
 month: 07
 day: 29
@@ -35,5 +35,5 @@ description: So today I came across Yosemite Transformation Pack 2.0. Seemed qui
 		![](/static/images/Yosemite-Transformation-Pack/launchpad-after-applying-transformation-pack.png)
 		<p>The last screen is the so called "Launchpad", it comes up when you double click on empty space on desktop.</p>
 		<p>Overall the Yosemite Transformation Pack looks good and I might just keep it for some time.</p>
-		</div>
+
  </div> 
