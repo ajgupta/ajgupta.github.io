@@ -32,7 +32,7 @@ description: So today I came across Yosemite Transformation Pack 2.0. Seemed qui
 		![](/static/images/Yosemite-Transformation-Pack/my-computer-after-applying-transformation-pack.png)
 		![](/static/images/Yosemite-Transformation-Pack/folders-after-applying-transformation-pack.png)
 		![](/static/images/Yosemite-Transformation-Pack/start-menu-after-applying-transformation-pack.png)
-		<p><img src="/static/images/Yosemite-Transformation-Pack/launchpad-after-applying-transformation-pack.png" alt="" /></p>
+		<p><img src="/static/images/Yosemite-Transformation-Pack/launchpad-after-applying-transformation-pack.png" alt=""  height="100%" width="100%"/></p>
 		<p>The last screen is the so called "Launchpad", it comes up when you double click on empty space on desktop.</p>
 		<p>Overall the Yosemite Transformation Pack looks good and I might just keep it for some time.</p>
 
