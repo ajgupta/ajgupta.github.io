@@ -22,19 +22,7 @@ description: For embedding code in a post you can use Gist. Using Gist you can e
     <li>On the next page you will get the code for embedding the Gist that you just created. Copy it and paste it where ever you want to use this Gist.</li>
     </ol>
     <p>Example gist: <script src="https://gist.github.com/ajgupta/e92c46761fe0b0a730b0.js"></script> </p>
-	<ul>
-		<p>Related posts:</p>
-  {% for post in site.tags.blogging %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  {% for post in site.tags.github %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
 	</div>
 </div> 
 	
