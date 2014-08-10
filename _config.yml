@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Ajay Gupta
-tagline:          'Blog by Ajay'
+title:            The Github Experiment
+tagline:          'Ajay Gupta - Oracle Apps Developer'
 description:      'A <a href="http://ajgupta.github.io" target="_blank">blog by Ajay</a>.'
 url:              http://ajgupta.github.io
 baseurl:          /
