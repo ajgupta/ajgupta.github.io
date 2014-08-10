@@ -1,94 +1,15 @@
-<!doctype html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--> 	
-<html lang="en"> 
-<!--<![endif]-->
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />	<!-- Force Latest IE rendering engine -->
-    <title>{{ page.title }}</title>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    
-    
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  {% include head.html %}
 
-  ga('create', 'UA-33329744-3', 'auto');
-  ga('send', 'pageview');
+  <body class="theme-base-0d">
 
-</script>
+    {% include sidebar.html %}
 
-    
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'> 
-    <link href="http://feeds.feedburner.com/ajaygupta" rel="alternate" title="Ajay Gupta" type="application/atom+xml" /> 
-    <link rel="shortcut icon" href="/static/images/favicon.jpg" />
-
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
-
-    <link rel="stylesheet" href="/static/css/style.css">
-
-    <!--
-    <link rel="stylesheet" href="/static/css/base.css">
-    <link rel="stylesheet" href="/static/css/font-awesome.css">
-    <link rel="stylesheet" href="/static/css/skeleton.css">
-    <link rel="stylesheet" href="/static/css/layout.css">
-    -->
-
-    <!--[if IE 7]>
-      <script src="/static/css/font-awesome-ie7.css"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="container">	
-      <div id='mobile' class='two columns hidden'>
-        <ul>
-          <li><a href='/'>Ajay Gupta - Oracle Apps Developer</a></li>
-          <li><a href="mailto:ironshoot@gmail.com">Contact me via email</a></li>
-        </ul>
-      </div>
-
-      <div class="four columns sidebar">
-        <section>
-          <a id="avatar" href="/"></a>
-
-          <ul id="social">
-            <li>
-              <a href="mailto:ironshoot@gmail.com?subject=hi" id="sidebar-email" class="icon-envelope-alt" title="Say hi" onClick="_gaq.push(['_trackEvent', 'Social Icons', 'Click', 'Email']);"></a>
-            </li>
-
-            <li>
-              <a href="http://in.linkedin.com/in/ajaygupta200/" id="sidebar-linkedin" class="icon-linkedin-sign" title="View my Linkedin profile" style="font-size: 25px;" onClick="_gaq.push(['_trackEvent', 'Social Icons', 'Click', 'LinkedIn']);"></a>
-            </li>
-
-            <li>
-              <a href="http://twitter.com/ajgupta_8" id="sidebar-twitter" class="icon-twitter" title="Add me on Twitter" style="font-size: 28px;" onClick="_gaq.push(['_trackEvent', 'Social Icons', 'Click', 'Twitter']);"></a>
-            </li>
-
-            <li>
-              <a href="http://github.com/ajgupta" id="sidebar-github" class="icon-github" title="Me at Github" onClick="_gaq.push(['_trackEvent', 'Social Icons', 'Click', 'Github']);"></a>
-            </li>
-          </ul>
-
-          <ul id="me">
-            <li>Ajay Gupta</span></li>
-            <li class="gray">
-              Oracle Apps Developer <a href="http://www.infosys.com/">@Infosys</a>.</br>
-            </li>
-          </ul>
-		 </section>
-      </div>
-
+    <div class="content container">
       {{ content }}
     </div>
 
   </body>
-</html> 
+</html>

@@ -1,3 +1,25 @@
-pygments: true
-permalink: '/:title'
-markdown: kramdown
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ajay Gupta
+tagline:          'Blog by Ajay'
+description:      'A <a href="http://ajgupta.github.io" target="_blank">blog by Ajay</a>.'
+url:              http://ajgupta.github.io
+baseurl:          /
+
+author:
+  name:           'Ajay Gupta'
+  url:            http://in.linkedin.com/in/ajaygupta200/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ajgupta/ajgupta.github.io
