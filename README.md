@@ -1,4 +1,4 @@
-## [Ajay Gupta](http://www.ajay-gupta.com/) 
+## [Ajay Gupta](http://ajgupta.github.io) 
 
 This is my GitHub user page made with Jekyll. 
 
