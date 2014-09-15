@@ -6,7 +6,7 @@ tags: Google
 year: 2014
 month: 09
 day: 15
-published: false
+published: true
 description: Today Google introduced Android One smartphone or what it touted as smartphone for the next five billion. But is it really the smartphone for the next five billion? A closer look.
 
 ---
@@ -23,12 +23,14 @@ description: Today Google introduced Android One smartphone or what it touted as
 		<p>But let's not get cynical here as Moto E was announced 4 months back and maybe Google took some strides forward to reduce the overall price. And also Moto E and Android One are developed by different companies in different countries (China vs India) so that maybe a contributing factor.</p>
 		<h2>What's the deal with Redmi 1S?</h2>
 		<p>Redmi 1S is a smartphone made by a chinese company Xiaomi. Xiaomi is famous for manufacturing brilliantly specced phones like Mi2 and Mi3. Redmi 1S is a smartphone which is priced at 5999 rupees or around 98 dollars. It has better screen, better processor, better performance than Moto E or Android One. You can <a href="http://www.bgr.in/news/spice-android-one-dream-uno-mi-498-vs-xiaomi-redmi-1s-specifications-and-features-compared/" target="_blank">compare the specs of Android One and Redmi 1S</a> yourself.</p>
-		<h2>But then what was Moto E that Google announced a few month back?</h2>
-		<p>Most common way to use these:</p>
-		<script src="https://gist.github.com/ajgupta/90a59925ba66d7a45ba9.js"></script><br>
-		<br>
-		<p>Source: Oracle Docs for <a href="http://docs.oracle.com/cd/B19306_01/server.102/b14237/statviews_4102.htm" target="_blank">DBA_SOURCE</a>, <a href="http://docs.oracle.com/cd/B19306_01/server.102/b14237/statviews_2063.htm" target="_blank">ALL_SOURCE</a>
-		
+		<h2>Holy Sh*!, so is Google lying about launching the smartphones for the next 5 billion?</h2>
+		<p>Not exactly. If you have looked close enough at the comparison between Redmi 1S and Android One smartphones then you might have noticed by now that Redmi 1S runs on Android ver 4.3 whereas Android One phones run on latest Android ver 4.4.4. That's not the only advantage you get with Android One smartphones, you will also get 2 years of regular updates directly from Google. Whereas Redmi 1S will most probably stay on Android 4.3 forever. Also Android One are made by Indian companies like Micromax which are quite famous in India.</p>
+		<h2>I am confused. Is Redmi 1S better or Android One?</h2>
+		<p>Let's break down this question into individual components. First about the updates: If you are desigining a smartphone for the next five billion people then you should understand that they don't care about the updates. Don't believe me? Take a look yourself at <a href="http://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank">the Android versions marketshare on this Wikipedia page</a>. It says that only 20% of smartphones are operating on Android 4.4.4 and the rest of 80% are operating on Android 4.3 or older version. If I consider myself as one of those "5 billion people" that Google mentioned then I will be quite satisfied with Android 4.3 in Remi 1S as I am getting more hardware for less price.</p>
+		<p>Now the second point about Redmi 1S being manufactured by a chinese company Xiaomi. For those people who have used Micromax, Spice or Karbonn phones in past, they know that service centeres are crap. If your phone gets damaged then you are better off getting it repaired at a local shop. Now let's the position of Xiaomi's Redmi 1S. Redmi is a chinese company. It is still in process of setting up it's service centeres in India. In fact many of them are operating in various states across India. When you buy their phone from Flipkart you also get the list of service centeres across India. Given the bad condition of service centeres on Indian companies like Micromax I cannot expect Xiaomi's service centeres to be worse. Xiaomi has to make it's mark in India and it will deliver proper service in order to be more popular in the future. Whereas companies like Micromax are already quite settled in India and have become ignorant of after sale services.</p>
+        </br>
+		<p>I wrote this article to showcase the truth about Google's "Smartphones for the next 5 billion". I am not forcing anyone to buy any smartphone, but merely representing the reality of the sparse Android Smartphone market and the claims of giants.</p>
+				
 	</div>
 </div> 
 		
