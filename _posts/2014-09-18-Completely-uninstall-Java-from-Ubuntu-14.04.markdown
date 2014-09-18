@@ -13,6 +13,7 @@ description: Run the following commands in the terminal one by one to completely
 
 <div class="row">	
 	<div class="span9 columns">
+		<p>There maybe many reasons why you might want to remove Java from your system (mine was tthe continious updates, even though Java wasn't very useful for my work). Whatever the resons, follow the procedure below to uninstall Java from your Ubuntu 14.04 system:</p>
 		<h2>Remove all the Java related packages</h2>
 		<p>First run the below three commands one by one to remove all Java related packages from Ubuntu 14.04 like <b>Sun, Oracle, OpenJDK, IcedTea plugins, GIJ</b>:</p>
 		<script src="https://gist.github.com/ajgupta/44443aa08c058e4255d8.js"></script>
