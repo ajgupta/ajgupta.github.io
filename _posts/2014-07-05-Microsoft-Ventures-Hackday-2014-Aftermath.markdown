@@ -5,7 +5,7 @@ year: 2014
 month: 07
 day: 05
 published: true
-tags: hackathon microsoft
+tags: hackathon, microsoft
 description:  Its day (or night!) one at Microsoft Ventures Hackday. Everybody is busy in making their implementation of the API's provided. Hackday has been fun till now. Met some awesome entrepreneurs.
 
 ---
