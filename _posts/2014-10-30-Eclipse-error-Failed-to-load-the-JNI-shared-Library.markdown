@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eclipse error: Failed to load the JNI shared Library
+title: Eclipse error - Failed to load the JNI shared Library
 category: Java
 tags: Eclipse Java
 year: 2014
