@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VMWare challenege on HackerRank
+title: VMWare challenge on HackerRank
 category: Interview
 tags: Interview
 year: 2014
