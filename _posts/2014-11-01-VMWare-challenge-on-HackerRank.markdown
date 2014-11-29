@@ -18,6 +18,5 @@ description: This question appeared in a HackerRank challenge during VMWare Eval
 		<p>The solution didn't clicked me then, but this is what I came up with. Not the most efficient solution, but it works.</p>
 		<script src="https://gist.github.com/ajgupta/5baa992246177ec237d4.js"></script>
 		<p>Note: I haven't considered the case where all inputs are passed as 1 and no flipping is done (Ambiguity, not mentioned in the question). Also <b>in the inputs you only pass the array not the size.</b> If you want to pass size as well then add an if condition where if i is zero then parseInt into a size variable and in else the array.</p>
-		<script src="http://ideone.com/e.js/xftS3r" type="text/javascript" ></script>
 	</div>
 </div> 
