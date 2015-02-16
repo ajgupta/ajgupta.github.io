@@ -13,8 +13,7 @@ description: This post explains in detail everything a user needs to know about 
 
 <div class="row">	
 	<div class="span9 columns">
-		<p class="MsoNormal">All about CPU Governors and GPU governors
-<br>
+		<p class="MsoNormal">
 Applications needed for using these features: <br>
 1. <a href="https://play.google.com/store/apps/details?id=com.mhuang.overclocking&hl=en" target="_blank">SetCPU</a><br>
 2. <a href="https://play.google.com/store/apps/details?id=it.sineo.android.noFrillsCPU&hl=en" target="_blank">No-frills CPU Control</a><br>
