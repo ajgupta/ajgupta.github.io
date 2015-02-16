@@ -15,49 +15,21 @@ description: This post explains in detail everything a user needs to know about 
 	<div class="span9 columns">
 		<p class="MsoNormal">All about CPU Governors and GPU governors
 <br>
-S/W or App's for using these features: <br>
-1. SetCPU. (Paid)<br>
-2. No-frills CPU. (Free)<br>
+Applications needed for using these features: <br>
+1. <a href="https://play.google.com/store/apps/details?id=com.mhuang.overclocking&hl=en" target="_blank">SetCPU</a><br>
+2. <a href="https://play.google.com/store/apps/details?id=it.sineo.android.noFrillsCPU&hl=en" target="_blank">No-frills CPU Control</a><br>
 3. Inbuilt Performance Settings (Only in custom roms, Free)<br>
-4. Trickster Mod app (Free)<br>
-<br>
-<br>
-This pages includes:<br>
-<br>
-<br>
-- Descriptions<br>
-- CPU governors<br>
-- Hotplugging drivers<br>
-- GPU governors<br>
-- Categorizations<br>
-- Recommendations<br>
-- Graphs<br>
+4. <a href="https://play.google.com/store/apps/details?id=com.bigeyes0x0.trickstermod&hl=en" target="_blank">Trickster Mod</a> <br>
+
 <br>
 <br>
 What is a CPU governor?<br>
 <br>
+A CPU governor in Android controls how the CPU raises and lowers its frequency in response to the demands the user is placing on their device. Governors are especially important in smartphones and tablets because they have a large impact on the apparent fluidity of the interface and the battery life of the device over a charge. <br>
 <br>
-A CPU governor in Android controls how the CPU raises and lowers its
-frequency
-in response to the demands the user is placing on their device.
-Governors are
-especially important in smartphones and tablets because they have a
-large
-impact on the apparent fluidity of the interface and the battery life
-of the
-device over a charge. <br>
+NOTE: You cannot change your CPU governor unless your phone is rooted and you have a ROM or app that lets you make a change. Also, different kernels (the intermediary software between your phone's hardware and the operating system) offer different sets of governors. <br>
 <br>
-NOTE: You cannot change your CPU governor unless your phone is rooted
-and you
-have a ROM or app that lets you make a change. Also, different kernels
-(the
-intermediary software between your phone's hardware and the operating
-system)
-offer different sets of governors. <br>
-<br>
-<br>
-<br>
-<br>
+
 Available CPU governors:<br style="">
 <!--[if !supportLineBreakNewLine]--><br style="">
 <!--[endif]--><o:p></o:p></p>
