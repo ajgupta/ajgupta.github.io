@@ -1187,6 +1187,11 @@ used by people anymore or they are not suited for most people or have
 been
 removed from kernels.<o:p></o:p></p>
 
+More info/Source/Credits:
+<a href="http://forum.xda-developers.com/galaxy-s2/general/ref-kernel-governors-modules-o-t1369817" target="_blank">XDA Forums</a><br>
+<a href="http://xda-university.com/as-a-developer/adding-features-to-your-kernel" target="_blank">XDA University</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.mhuang.overclocking&hl=en" target="_blank">SetCPU</a><br>
+
 	</div>
 </div> 
 		
