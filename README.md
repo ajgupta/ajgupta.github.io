@@ -13,4 +13,4 @@ The following directories and their contents are Copyright Ajay Gupta. You may n
 * _posts/
 * static/images/
 
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://www.ajay-gupta.com/ would be appreciated.
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://www.ajgupta.github.io/ would be appreciated.
